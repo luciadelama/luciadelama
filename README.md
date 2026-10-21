@@ -63,3 +63,35 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
+  <img src="assets/projects/isoforms.jpg"
+       alt="Isoforms" width="220">
+</td>
+<td width="50%" valign="middle">
+
+<h4>Comparative snRNA-seq Analysis of Control and Multiple Sclerosis Brain Tissue</h4>
+
+<sub>
+Performed a comparative single-nucleus RNA-seq analysis of healthy and multiple sclerosis brain tissue, investigating cell-type composition, differential gene expression, pathway enrichment, oligodendrocyte trajectories, and cell-cell communication to characterize disease-associated cellular and transcriptional changes.
+</sub>
+<p></p>
+<p>
+<code>R</code> <code>Seurat</code> <code>CellChat</code>
+</p>
+
+<a href="[REPOSITORY_URL](https://github.com/luciadelama/DeepIsoQ)">
+  <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
+       alt="Repository">
+</a>
+&nbsp;
+<a href="[PDF_URL](https://github.com/luciadelama/luciadelama/assets/projects/Group4_snRNAseq_MS.pdf)">
+  <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
+       alt="View Report">
+</a>
+
+</td>
+</tr>
+</table>
+
