@@ -31,6 +31,33 @@ I like understanding how things work, I like learning things I do not yet know h
 <table>
 <tr>
 <td width="20%" align="center" valign="middle">
+  <img src="assets/projects/ngs.png"
+       alt="NGS" width="260">
+</td>
+<td width="50%" valign="middle">
+
+<h4>Transcriptomic Analysis of APP- and PSEN1-Related Familial Alzheimer's Disease</h4>
+
+<sub>
+RNA-seq analysis of familial Alzheimer's disease associated with APP and PSEN1 mutations, combining differential gene expression, gene set enrichment, and network analysis to identify shared and mutation-specific transcriptional changes and molecular pathways potentially involved in disease pathology.
+</sub>
+<p></p>
+<p>
+<code>FastQC</code> <code>Trimmomatic</code> <code>Kallisto</code> <code>DESeq2</code> <code>fgsea</code> 
+</p>
+
+<a href="assets/projects/Group10_NGS_poster.pdf">
+  <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
+       alt="View Report">
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
   <img src="assets/projects/isoforms.jpg"
        alt="Isoforms" width="220">
 </td>
