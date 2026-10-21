@@ -105,7 +105,7 @@ Performed a comparative single-nucleus RNA-seq analysis of healthy and multiple 
 </sub>
 <p></p>
 <p>
-<code>R</code> <code>Seurat</code> <code>CellChat</code>
+<code>Single-cell</code> <code>R</code> <code>Seurat</code> <code>CellChat</code>
 </p>
 
 <a href="https://github.com/luciadelama/BrainMS_snRNAseq">
