@@ -27,6 +27,30 @@ The common thread is probably **curiosity**.
 
 I like understanding how things work, I like learning things I do not yet know how to do, and I especially like using data and computation to solve biological problems. And, that is more or less what you will find here!
 
-Tools (logo)
-Social media
+## Projects I have worked in
+<table>
+<tr>
+<td width="30%" valign="top">
+  <img src="assets/projects/project-name.png"
+       alt="Project cover" width="220">
+</td>
+<td width="70%" valign="top">
+
+### Project Title
+
+A short description explaining the objective,
+methodology, and main contribution of the project.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=python,pytorch"
+     height="32">
+
+**[📁 Repository](https://github.com/USERNAME/REPOSITORY)**
+&nbsp;·&nbsp;
+**[📄 Poster / Slides](assets/projects/project-name.pdf)**
+
+</td>
+</tr>
+</table>
 
