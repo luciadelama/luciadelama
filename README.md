@@ -31,6 +31,33 @@ I like understanding how things work, I like learning things I do not yet know h
 <table>
 <tr>
 <td width="20%" align="center" valign="middle">
+  <img src="assets/projects/crispr.jpg"
+       alt="CUP" width="250">
+</td>
+<td width="50%" valign="middle">
+
+<h4>Automation and Visualization of CRISPResso2 Analysis</h4>
+
+<sub>
+Developed a containerized Shiny application to automate CRISPResso2-based analysis of CRISPR genome-editing experiments, streamlining data processing and providing interactive visualizations to facilitate the interpretation of editing outcomes.
+</sub>
+<p></p>
+<p>
+<code>Shiny</code> <code>Docker</code> <code>CRISPResso2</code>
+</p>
+
+<a href="https://github.com/luciadelama/CRISPR-NGS_analyzer">
+  <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
+       alt="Repository">
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
   <img src="assets/projects/cup.png"
        alt="CUP" width="250">
 </td>
