@@ -30,21 +30,17 @@ I like understanding how things work, I like learning things I do not yet know h
 ## Projects I have worked in
 <table>
 <tr>
-<td width="30%" valign="top">
+<td width="25%" valign="top">
   <img src="assets/projects/isoforms.jpg"
-       alt="Project cover" width="220">
+       alt="Project cover" width="130">
 </td>
-<td width="70%" valign="top">
+<td width="50%" valign="top">
 
 ### Predicting Isoform Expression from Gene-Level Profiles using Representation Learning
 
 Explored deep learning approaches to predict transcript isoform expression from bulk RNA-seq gene-level profiles, comparing neural network architectures (FFNNs, ResNets, and Transformers) and representation learning techniques (PCA, VAEs, and BulkFormer) to assess predictive performance and dimensionality reduction.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-F5F5F5?style=flat&labelColor=F5F5F5" alt="Python">
-  <img src="https://img.shields.io/badge/PyTorch-F5F5F5?style=flat&labelColor=F5F5F5" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Deep%20Learning-F5F5F5?style=flat&labelColor=F5F5F5" alt="Deep Learning">
-</p>
+<code>Python</code> <code>PyTorch</code> <code>Deep Learning</code>
 
 **[📁 Repository](https://github.com/luciadelama/DeepIsoQ)**
 &nbsp;·&nbsp;
