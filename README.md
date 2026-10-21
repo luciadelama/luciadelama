@@ -32,7 +32,7 @@ I like understanding how things work, I like learning things I do not yet know h
 <tr>
 <td width="25%" valign="top">
   <img src="assets/projects/isoforms.jpg"
-       alt="Project cover" width="130">
+       alt="Project cover" width="220">
 </td>
 <td width="50%" valign="top">
 
@@ -44,7 +44,7 @@ Explored deep learning approaches to predict transcript isoform expression from 
 
 **[📁 Repository](https://github.com/luciadelama/DeepIsoQ)**
 &nbsp;·&nbsp;
-**[📄 Poster / Slides](assets/projects/DL.pdf)**
+**[📄 Doc](assets/projects/DL.pdf)**
 
 </td>
 </tr>
