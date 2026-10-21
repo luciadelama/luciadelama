@@ -31,7 +31,7 @@ I like understanding how things work, I like learning things I do not yet know h
 <table>
 <tr>
 <td width="20%" align="center" valign="middle">
-  <img src="assets/projects/ngs.png"
+  <img src="assets/projects/cup.png"
        alt="NGS" width="260">
 </td>
 <td width="50%" valign="middle">
@@ -46,12 +46,12 @@ Developed deep learning approaches to predict the tissue of origin of cancers of
 <code>Pytorch</code> <code>Variational Autoencoders</code> <code>Contrastive Learning</code>
 </p>
 
-<a href="https://github.com/luciadelama/DeepIsoQ">
+<a href="https://github.com/luciadelama/CUP-VAE">
   <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
        alt="Repository">
 </a>
 &nbsp;
-<a href="assets/projects/Group10_NGS_poster.pdf">
+<a href="assets/projects/s243311_Thesis.pdf">
   <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
        alt="View Report">
 </a>
