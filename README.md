@@ -44,7 +44,7 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 (FFNNs, ResNets, and Transformers) and representation learning techniques
 (PCA, VAEs, and BulkFormer).
 </sub>
-
+<p></p>
 <p>
 <code>Python</code> <code>PyTorch</code> <code>Deep Learning</code>
 </p>
