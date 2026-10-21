@@ -32,7 +32,7 @@ I like understanding how things work, I like learning things I do not yet know h
 <tr>
 <td width="20%" align="center" valign="middle">
   <img src="assets/projects/cup.png"
-       alt="CUP" width="200">
+       alt="CUP" width="190">
 </td>
 <td width="50%" valign="middle">
 
