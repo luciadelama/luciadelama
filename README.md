@@ -30,7 +30,7 @@ I like understanding how things work, I like learning things I do not yet know h
 ## Projects I have worked in
 <table>
 <tr>
-<td width="25%" align="center" valign="middle">
+<td width="20%" align="center" valign="middle">
   <img src="assets/projects/isoforms.jpg"
        alt="Isoforms" width="220">
 </td>
@@ -49,12 +49,12 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 <code>Python</code> <code>PyTorch</code> <code>Deep Learning</code>
 </p>
 
-<a href="REPOSITORY_URL">
+<a href="[REPOSITORY_URL](https://github.com/luciadelama/DeepIsoQ)">
   <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
        alt="Repository">
 </a>
 &nbsp;
-<a href="PDF_URL">
+<a href="[PDF_URL](https://github.com/luciadelama/luciadelama/assets/projects/DL.pdf)">
   <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
        alt="View Report">
 </a>
