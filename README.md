@@ -30,11 +30,11 @@ I like understanding how things work, I like learning things I do not yet know h
 ## Projects I have worked in
 <table>
 <tr>
-<td width="25%" valign="top">
+<td width="33%" align="center" valign="middle">
   <img src="assets/projects/isoforms.jpg"
-       alt="Project cover" width="220">
+       alt="Isoforms" width="220">
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="middle">
 
 <h4>Predicting Isoform Expression from Gene-Level Profiles using Representation Learning</h4>
 
@@ -45,9 +45,19 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 (PCA, VAEs, and BulkFormer).
 </sub>
 
+<p>
 <code>Python</code> <code>PyTorch</code> <code>Deep Learning</code>
+</p>
 
-<a href="[URL](https://github.com/luciadelama/DeepIsoQ)">📁 Repository</a> · <a href="assets/projects/DL.pdf">📄 Doc</a>
+<a href="REPOSITORY_URL">
+  <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
+       alt="Repository">
+</a>
+&nbsp;
+<a href="PDF_URL">
+  <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
+       alt="View Report">
+</a>
 
 </td>
 </tr>
