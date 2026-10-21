@@ -30,7 +30,7 @@ I like understanding how things work, I like learning things I do not yet know h
 ## Projects I have worked in
 <table>
 <tr>
-<td width="33%" align="center" valign="middle">
+<td width="25%" align="center" valign="middle">
   <img src="assets/projects/isoforms.jpg"
        alt="Isoforms" width="220">
 </td>
