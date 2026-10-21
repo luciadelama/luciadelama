@@ -36,6 +36,38 @@ I like understanding how things work, I like learning things I do not yet know h
 </td>
 <td width="50%" valign="middle">
 
+<h4>Deep Learning Approaches for Cancer of Unknown Primary (CUP) Classification</h4>
+
+<sub>
+Developed deep learning approaches to predict the tissue of origin of cancers of unknown primary (CUP) from RNA-seq data, exploring variational autoencoders (VAEs) and contrastive learning to generate compact gene expression representations for classification. Evaluated model generalization using an independent cohort of metastatic cancer samples.
+</sub>
+<p></p>
+<p>
+<code>Pytorch</code> <code>Variational Autoencoders</code> <code>Contrastive Learning</code>
+</p>
+
+<a href="https://github.com/luciadelama/DeepIsoQ">
+  <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
+       alt="Repository">
+</a>
+&nbsp;
+<a href="assets/projects/Group10_NGS_poster.pdf">
+  <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
+       alt="View Report">
+</a>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="20%" align="center" valign="middle">
+  <img src="assets/projects/ngs.png"
+       alt="NGS" width="260">
+</td>
+<td width="50%" valign="middle">
+
 <h4>Transcriptomic Analysis of APP- and PSEN1-Related Familial Alzheimer's Disease</h4>
 
 <sub>
