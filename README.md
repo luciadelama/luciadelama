@@ -54,7 +54,7 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
        alt="Repository">
 </a>
 &nbsp;
-<a href="https://github.com/luciadelama/luciadelama/assets/projects/DL.pdf">
+<a href="assets/projects/DL.pdf">
   <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
        alt="View Report">
 </a>
@@ -86,7 +86,7 @@ Performed a comparative single-nucleus RNA-seq analysis of healthy and multiple 
        alt="Repository">
 </a>
 &nbsp;
-<a href="https://github.com/luciadelama/luciadelama/assets/projects/Group4_snRNAseq_MS.pdf">
+<a href="assets/projects/Group4_snRNAseq_MS.pdf">
   <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
        alt="View Report">
 </a>
