@@ -67,7 +67,7 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 <tr>
 <td width="20%" align="center" valign="middle">
   <img src="assets/projects/singlecell.png"
-       alt="SingleCell" width="250">
+       alt="SingleCell" width="260">
 </td>
 <td width="50%" valign="middle">
 
