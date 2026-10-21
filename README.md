@@ -36,15 +36,18 @@ I like understanding how things work, I like learning things I do not yet know h
 </td>
 <td width="50%" valign="top">
 
-### Predicting Isoform Expression from Gene-Level Profiles using Representation Learning
+<h4>Predicting Isoform Expression from Gene-Level Profiles using Representation Learning</h4>
 
-Explored deep learning approaches to predict transcript isoform expression from bulk RNA-seq gene-level profiles, comparing neural network architectures (FFNNs, ResNets, and Transformers) and representation learning techniques (PCA, VAEs, and BulkFormer) to assess predictive performance and dimensionality reduction.
+<sub>
+Explored deep learning approaches to predict transcript isoform expression
+from bulk RNA-seq gene-level profiles, comparing neural network architectures
+(FFNNs, ResNets, and Transformers) and representation learning techniques
+(PCA, VAEs, and BulkFormer).
+</sub>
 
 <code>Python</code> <code>PyTorch</code> <code>Deep Learning</code>
 
-**[📁 Repository](https://github.com/luciadelama/DeepIsoQ)**
-&nbsp;·&nbsp;
-**[📄 Doc](assets/projects/DL.pdf)**
+<a href="[URL](https://github.com/luciadelama/DeepIsoQ)">📁 Repository</a> · <a href="assets/projects/DL.pdf">📄 Doc</a>
 
 </td>
 </tr>
