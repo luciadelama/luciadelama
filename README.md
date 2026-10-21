@@ -27,7 +27,7 @@ The common thread is probably **curiosity**.
 
 I like understanding how things work, I like learning things I do not yet know how to do, and I especially like using data and computation to solve biological problems. And, that is more or less what you will find here!
 
-## Projects I have worked in
+## Selected Projects
 <table>
 <tr>
 <td width="20%" align="center" valign="middle">
