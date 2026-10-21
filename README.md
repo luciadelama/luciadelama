@@ -49,12 +49,12 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 <code>Python</code> <code>PyTorch</code> <code>Deep Learning</code>
 </p>
 
-<a href="[REPOSITORY_URL](https://github.com/luciadelama/DeepIsoQ)">
+<a href="https://github.com/luciadelama/DeepIsoQ">
   <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
        alt="Repository">
 </a>
 &nbsp;
-<a href="[PDF_URL](https://github.com/luciadelama/luciadelama/assets/projects/DL.pdf)">
+<a href="https://github.com/luciadelama/luciadelama/assets/projects/DL.pdf">
   <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
        alt="View Report">
 </a>
@@ -66,8 +66,8 @@ from bulk RNA-seq gene-level profiles, comparing neural network architectures
 <table>
 <tr>
 <td width="20%" align="center" valign="middle">
-  <img src="assets/projects/isoforms.jpg"
-       alt="Isoforms" width="220">
+  <img src="assets/projects/singlecell.png"
+       alt="SingleCell" width="220">
 </td>
 <td width="50%" valign="middle">
 
@@ -81,12 +81,12 @@ Performed a comparative single-nucleus RNA-seq analysis of healthy and multiple 
 <code>R</code> <code>Seurat</code> <code>CellChat</code>
 </p>
 
-<a href="[REPOSITORY_URL](https://github.com/luciadelama/DeepIsoQ)">
+<a href="https://github.com/luciadelama/BrainMS_snRNAseq">
   <img src="https://img.shields.io/badge/Repository-ffffff?style=social&logo=github"
        alt="Repository">
 </a>
 &nbsp;
-<a href="[PDF_URL](https://github.com/luciadelama/luciadelama/assets/projects/Group4_snRNAseq_MS.pdf)">
+<a href="https://github.com/luciadelama/luciadelama/assets/projects/Group4_snRNAseq_MS.pdf">
   <img src="https://img.shields.io/badge/View%20Report-ffffff?style=social&logo=readthedocs"
        alt="View Report">
 </a>
