@@ -7,6 +7,10 @@ My curiosity about science started with a very simple question: **why was I the 
 
 Years later, a biology lesson in high school finally gave me an answer, and that curiosity eventually led me to study **Biotechnology** at the Polytechnic University of Madrid (UPM), where I specialized in Computational Biotechnology. Somewhere between biology, programming and large datasets, I discovered bioinformatics. My first contact with it came at the National Center for Biotechnology (CNB-CSIC) in Madrid, where I supported different research groups across the institute. The variety was what I enjoyed most: one day I could be working with transcriptomic data, another exploring metagenomics or structural predictions. It was also where many of the tools I had learned at university became real: HPC environments, data cleaning, pipelines and visualizations were no longer exercises, they were part of answering actual biological questions.
 
+<p align="center">
+  <img src="assets/about me/biotec.jpeg" alt="Biotechnology" width="700">
+</p>
+
 After that, two years ago, I packed my things and moved to Copenhagen to pursue an **MSc in Bioinformatics** at Technical University of Denmark (DTU). It turned out to be one of the best decisions I have made. Professionally, it pushed me far outside what I already knew; personally, it taught me that some of the best things happen when you step outside your comfort zone.
 
 Finding my first job in Denmark was not quite as straightforward. It was actually in a restaurant. It doesn't appear particularly relevant to bioinformatics on paper, but it taught me how to work with people, take responsibility, and adapt quickly to completely new environments. Once I had found my footing in Copenhagen, other opportunities started appearing. A year after taking Introduction to Systems Biology myself, I returned to the course as a Teaching Assistant. Suddenly being on the other side of the classroom, explaining concepts, debugging problems, and helping students was a surprisingly rewarding experience.
