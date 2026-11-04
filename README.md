@@ -29,17 +29,11 @@ Another opportunity started with a much smaller step: an email to the Department
 
 <img src="assets/about me/dtu.jpeg"
      alt="Lucía"
-     width="230"
+     width="250"
      align="right"
      hspace="10">
 
 I eventually stayed at Rigshospitalet for my MSc thesis as well. There, I moved closer to machine learning and worked on cancer of unknown primary (CUP) classification, exploring the use of variational autoencoders (VAEs) to learn representations of high-dimensional molecular data and investigate whether they could improve tumour classification. What made the project especially meaningful to me was the problem behind the models. CUP refers to patients whose cancer is detected but whose primary tumour cannot be identified, which makes diagnosis and treatment particularly challenging. It was also the first project where I had the time to really get lost in a machine-learning problem: trying ideas that did not work, questioning results that initially looked promising, going back to the data, and slowly building an intuition for what the models were actually learning. I enjoyed that process much more than I expected.
-
-<img src="assets/about me/basecamp.jpeg"
-     alt="Lucía"
-     width="230"
-     align="right"
-     hspace="10">
      
 Not everything I have done in Copenhagen has involved code or genomic data, though.
 
