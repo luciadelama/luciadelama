@@ -7,9 +7,9 @@ My curiosity about science started with a very simple question: **why was I the 
 
 <img src="assets/about me/biotec.jpeg"
      alt="Lucía"
-     width="250"
+     width="230"
      align="right"
-     hspace="20">
+     hspace="10">
      
 Years later, a biology lesson in high school finally gave me an answer, and that curiosity eventually led me to study **Biotechnology** at the Polytechnic University of Madrid (UPM), where I specialized in Computational Biotechnology. Somewhere between biology, programming and large datasets, I discovered bioinformatics. My first contact with it came at the National Center for Biotechnology (CNB-CSIC) in Madrid, where I supported different research groups across the institute. The variety was what I enjoyed most: one day I could be working with transcriptomic data, another exploring metagenomics or structural predictions. It was also where many of the tools I had learned at university became real: HPC environments, data cleaning, pipelines and visualizations were no longer exercises, they were part of answering actual biological questions.
 
