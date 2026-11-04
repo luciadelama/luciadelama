@@ -22,12 +22,25 @@ Finding my first job in Denmark was not quite as straightforward. It was actuall
      width="230"
      align="left"
      hspace="10">
+     
 I also joined **DTU BioBuilders**, DTU's iGEM team. Our project, [NomNomNylon](https://2025.igem.wiki/dtu-denmark/), explored how synthetic biology could contribute to a more circular textile industry by upcycling nylon waste into useful products such as indigoidine. For me, iGEM was as much about the people as the science. At the end of the journey, we brought home not only the Best Fashion & Cosmetics Project award and a Top 10 Best Wiki recognition, but also a much stronger sense of collaboration and what can happen when a group of committed students with very different skills works toward the same goal.
 
 Another opportunity started with a much smaller step: an email to the Department of Genomic Medicine at **Rigshospitalet**, driven by my interest in genetics and initially just asking whether I could do a special course there. That email eventually turned into one of my most valuable professional experiences. My first project was to automate an analysis that laboratory staff were performing manually as part of their routine. I developed a Shiny application, containerized it with Docker, and turned the analysis into a tool that could be used directly by the laboratory, saving hours of work. After the project, I stayed in the department as a Student Assistant. My next assignment was very different: build a complete web application, frontend and backend included. That experience probably describes quite well how I like to work: I enjoy being given a problem slightly outside what I already know and figuring out what I need to learn to solve it.
 
+<img src="assets/about me/dtu.jpeg"
+     alt="Lucía"
+     width="230"
+     align="right"
+     hspace="10">
+
 I eventually stayed at Rigshospitalet for my MSc thesis as well. There, I moved closer to machine learning and worked on cancer of unknown primary (CUP) classification, exploring the use of variational autoencoders (VAEs) to learn representations of high-dimensional molecular data and investigate whether they could improve tumour classification. What made the project especially meaningful to me was the problem behind the models. CUP refers to patients whose cancer is detected but whose primary tumour cannot be identified, which makes diagnosis and treatment particularly challenging. It was also the first project where I had the time to really get lost in a machine-learning problem: trying ideas that did not work, questioning results that initially looked promising, going back to the data, and slowly building an intuition for what the models were actually learning. I enjoyed that process much more than I expected.
 
+<img src="assets/about me/basecamp.jpeg"
+     alt="Lucía"
+     width="230"
+     align="right"
+     hspace="10">
+     
 Not everything I have done in Copenhagen has involved code or genomic data, though.
 
 Living at Basecamp Lyngby has also become an important part of my life in Copenhagen. It is not only where I live, but also where I work, helping organize activities and events for an international student community. Working there has also taught me something that is easy to underestimate in technical environments: getting people together, communicating clearly, and creating a sense of community are skills too.
