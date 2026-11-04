@@ -7,7 +7,7 @@ My curiosity about science started with a very simple question: **why was I the 
 
 <img src="assets/about me/biotec.jpeg"
      alt="Lucía"
-     width="280"
+     width="250"
      align="right"
      hspace="20">
      
