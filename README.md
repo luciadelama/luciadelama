@@ -7,7 +7,7 @@ My curiosity about science started with a very simple question: **why was I the 
 
 <img src="assets/about me/biotec.jpeg"
      alt="Lucía"
-     width="230"
+     width="220"
      align="right"
      hspace="10">
      
@@ -29,7 +29,7 @@ Another opportunity started with a much smaller step: an email to the Department
 
 <img src="assets/about me/dtu.jpeg"
      alt="Lucía"
-     width="250"
+     width="270"
      align="right"
      hspace="10">
 
