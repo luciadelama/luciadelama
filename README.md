@@ -37,7 +37,7 @@ I eventually stayed at Rigshospitalet for my MSc thesis as well. There, I moved 
      
 Not everything I have done in Copenhagen has involved code or genomic data, though.
 
-Living at Basecamp Lyngby has also become an important part of my life in Copenhagen. It is not only where I live, but also where I work, helping organize activities and events for an international student community. Working there has also taught me something that is easy to underestimate in technical environments: getting people together, communicating clearly, and creating a sense of community are skills too.
+Living at Basecamp Lyngby has also become an important part of my life in Copenhagen. Beyond being my home, it has given me the opportunity to get involved in organizing activities and events for an international student community. This experience has taught me something that is easy to underestimate in technical environments: bringing people together, communicating clearly, and creating a sense of community are skills too.
 
 Looking back, there is not really one carefully planned line connecting everything I have done.
 
