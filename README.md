@@ -43,7 +43,7 @@ Looking back, there is not really one carefully planned line connecting everythi
 
 The common thread is probably **curiosity**.
 
-I like understanding how things work, I like learning things I do not yet know how to do, and I especially like using data and computation to solve biological problems. And, that is more or less what you will find here!
+I like understanding how things work, I like learning things I do not yet know how to do, and I especially like using data and coding to do so. And, that is more or less what you will find here!
 
 ## Selected Projects
 <table>
